@@ -1,0 +1,118 @@
+header{
+    background-color: rgb(231, 233, 231);
+    display: flex;
+    color: rgb(15, 82, 15);
+    height: 80px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+
+nav,ul,li{
+    display: flex;
+    margin-left: auto;
+}
+
+ul,li,a{
+    color: rgb(21, 61, 21);
+    list-style: none;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.mainbody{
+    display: flex;
+    background-color: white;
+    height: 500px;
+}
+
+.body2{
+    margin-right: 5%;
+}
+
+.body2 img{
+    height: 480px;
+    margin: 4px;
+    border-radius: 6px;
+}
+
+.body1{
+    margin-left: 10px;
+    margin-left: 5%;
+}
+
+button{
+    background-color: green;
+    border-radius: 20px;
+    border: none;
+    font-size: 16px;
+    padding: 15px 32px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+button:hover{
+    /* background-color: rgb(58, 58, 168); */
+    background-color: green;
+    border-radius: 20px;
+    border: none;
+    font-size: 16px;
+    padding: 15px 32px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.zero{
+    margin-left: 5%;
+}
+
+.parent{
+    display: flex;
+    /* background-color: blue; */
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.science{
+    /* background-color: rgb(212, 189, 189); */
+    /* margin-left: 5%; */
+    margin-right: 30px;
+}
+.maximal{
+    /* background-color: brown; */
+    margin-left:7px ;
+    margin-right:7px ;
+}
+.ethical{
+    /* background-color: chartreuse; */
+    /* margin-right: 5%; */
+    margin-left: 30px;
+}
+
+.total{
+    background-color: green;
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.picture img{
+    height: 300px;
+    border-radius: 6px;
+    margin:7px;
+    width: 500px;
+}
+
+.one{
+    margin-left: 30px;
+}
